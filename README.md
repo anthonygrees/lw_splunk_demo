@@ -8,7 +8,7 @@ The following Lacework apps are installed from SplunkBase:
 - [SplunkBase Add-on for Splunk](https://splunkbase.splunk.com/app/5701/)  
 - [SplunkBase Lacework Events Add-on](https://splunkbase.splunk.com/app/5073/)  
   
-To set up Alerts, you will need to configure the Splunk HEC and Lacework Alert Channel:  
+To set up Alerts, you will need to configure the Splunk HEC and Lacework Alert Channel.  f you wish to use the alert page: Currently, the app only accepts `index=lacework` for the alerts data input:    
 - [Setup Lacework Alerts to Splunk](https://support.lacework.com/hc/en-us/articles/360007889274-Splunk)
   
 Additional documentation:  
