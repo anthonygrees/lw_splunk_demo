@@ -136,3 +136,11 @@ This app hits the Lacework API so you will need to download the API key on a `js
   
 ##### Vulnerability Discovery Screen   
 ![Lacework Logo](/images/lw_vul.png)
+  
+
+### Debug the Lacework Add-on
+To find the logs, search in Splunk for the following:
+```
+index = _internal source=* sourcetype="*lacework*"
+```
+  
