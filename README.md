@@ -1,4 +1,6 @@
 # Splunk Demo for Lacework SplunkBase App
+
+[![HIPAA](https://app.soluble.cloud/api/v1/public/badges/f2dee852-e871-4bc2-a8d2-aca94603410e.svg)](https://app.soluble.cloud/repos/details/github.com/anthonygrees/lw_splunk_demo)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/081bfd5a-8e1c-4d67-83b4-de40b685f1e3.svg)](https://app.soluble.cloud/repos/details/github.com/anthonygrees/lw_splunk_demo)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/4f65e98f-7545-4b23-9dc7-01f6833f3f2b.svg)](https://app.soluble.cloud/repos/details/github.com/anthonygrees/lw_splunk_demo)  
    
 [![HIPAA](https://app.soluble.cloud/api/v1/public/badges/f2dee852-e871-4bc2-a8d2-aca94603410e.svg)](https://app.soluble.cloud/repos/details/github.com/anthonygrees/lw_splunk_demo)
 [![IaC](https://app.soluble.cloud/api/v1/public/badges/081bfd5a-8e1c-4d67-83b4-de40b685f1e3.svg)](https://app.soluble.cloud/repos/details/github.com/anthonygrees/lw_splunk_demo)
